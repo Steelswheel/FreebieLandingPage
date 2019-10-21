@@ -1,0 +1,1114 @@
+* {
+	margin: 0 auto;
+  padding: 0;
+}
+
+
+/* Header block start*/
+.header h1 {
+  font-family: Candara;
+  font-size: 54px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 21px;
+  font-weight: 400;
+}
+.header__logo-top_position {
+	margin: 0 auto;
+  padding: 10% 0 5% 0;
+}
+.header__title-top {
+
+}
+.header__title-top_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__title-bottom {
+ 
+}
+.header__title-bottom_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__text {
+
+}
+.header__text_position {
+  margin: 2% 0 0 0;
+  padding: 0;
+}
+.header__logo-bottom {
+}
+.header__logo-bottom_position {
+  margin: 0 auto;
+  padding: 10% 0 10% 0;
+}
+/* Header block ending */
+
+
+/* about-block start */
+.about-block {
+  background: #fff;
+}
+.about-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* about-block ending*/
+
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 22px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.border-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.border-block__field_dark {
+  border: 2px solid #3c3c3c;
+}
+.border-block__field_light {
+  border: 2px solid #fff;
+}
+.border-block__field_size {
+  max-width: 100%;
+}
+.border-block__title_position {
+  width: auto;
+  margin: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.border-block__text_position {
+  padding: 10% 20% 10% 20%;
+}
+/* Border-block ending*/
+
+
+/* Services-block start */
+.services-block {
+  background: #fff;
+}
+.services-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* Services-block ending*/
+
+
+/* What-block start */
+.what-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.what-block_theme{
+  color: #000;
+  background: #fff;
+}
+.what-block h2 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 22px;
+  font-weight: 400;
+  font-family: Lato;
+}
+.what-block__wrapper_position {
+ margin: 0 auto;
+ padding: 0; 
+}
+.what-block__border {
+
+}
+.what-block__border_theme {
+  border: 2px solid #000;
+  max-width: 100%;
+}
+.what-block__about-design_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-development_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-management_position {
+  margin: 0 auto;
+  padding: 10% 0 15% 0;
+}
+.what-block__design-icon_position {
+
+}
+.what-block__design-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__design-text_position {
+
+}
+.what-block__development-icon_position {
+
+}
+.what-block__development-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__development-text_position {
+
+}
+.what-block__management-icon_position {
+
+}
+.what-block__management-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__management-text_position {
+
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery {
+  
+}
+.gallery h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.gallery__container_theme-top {
+  margin-bottom: 1%;
+  color: #fff;
+}
+.gallery__container_theme-bottom {
+  margin-bottom: 5%;
+  color: #fff;
+}
+.gallery__card_position {
+  margin-right: 1%;
+}
+.gallery__card_title-left {
+  padding-left: 5%;
+  padding-bottom: 3%;
+}
+.gallery__card_title-middle {
+  padding-left: 5%; 
+  padding-bottom: 2%;
+}
+.gallery__card_title-right {
+  padding-left: 5%; 
+  padding-bottom: 3%;
+}
+.gallery__card-img_position {
+  align-items: flex-end;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  margin: 20% 0% 20% 0%;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 20px;
+}
+.footer-block_position {
+  margin: 0 0 2% 0;
+}
+/*Footer-block ending*/
+
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 320px) and (max-width: 424px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 30px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 400;
+}
+.header__logo-top_position {
+  margin: 0 auto;
+  padding: 10% 0 5% 0;
+}
+.header__logo-top_size {
+  height: 30px;
+  width: 40px;
+}
+.header__logo-bottom_size {
+  height: 30px;
+  width: 15px;
+}
+.header__title-top_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__title-bottom_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__text_position {
+  margin: 2% 0 0 0;
+  padding: 0;
+}
+.header__logo-bottom_position {
+  margin: 0 auto;
+  padding: 10% 0 10% 0;
+}
+/* Header block ending */
+
+
+/* about-block start */
+.about-block {
+  background: #fff;
+}
+.about-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* about-block ending*/
+
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 15px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.border-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.border-block__field_dark {
+  border: 2px solid #3c3c3c;
+}
+.border-block__field_light {
+  border: 2px solid #fff;
+}
+.border-block__field_size {
+  max-width: 100%;
+}
+.border-block__title_position {
+  width: auto;
+  margin: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.border-block__text_position {
+  padding: 10% 20% 10% 20%;
+}
+/* Border-block ending*/
+
+
+/* Services-block start */
+.services-block {
+  background: #fff;
+}
+.services-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* Services-block ending*/
+
+
+/* What-block start */
+.what-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.what-block_theme{
+  color: #000;
+  background: #fff;
+}
+.what-block h2 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Lato;
+}
+.what-block__wrapper_position {
+ margin: 0 auto;
+ padding: 0; 
+}
+.what-block__border_theme {
+  border: 2px solid #000;
+  max-width: 100%;
+}
+.what-block__about-design_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-development_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-management_position {
+  margin: 0 auto;
+  padding: 10% 0 15% 0;
+}
+.what-block__design-icon_position {
+
+}
+.what-block__design-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__development-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__management-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery {
+  display: none;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 20% 0%;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 15px;
+}
+.footer-block_position {
+  margin: 0 0 2% 0;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 425px) and (max-width: 767px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 30px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 400;
+}
+.header__logo-top_position {
+  margin: 0 auto;
+  padding: 10% 0 5% 0;
+}
+.header__title-top_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__title-bottom_position {
+  padding: 0;
+  margin: 0 auto;
+}
+.header__text_position {
+  margin: 2% 0 0 0;
+  padding: 0;
+}
+.header__logo-bottom_position {
+  margin: 0 auto;
+  padding: 10% 0 10% 0;
+}
+/* Header block ending */
+
+
+/* about-block start */
+.about-block {
+  background: #fff;
+}
+.about-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* about-block ending*/
+
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 15px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.border-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.border-block__field_dark {
+  border: 2px solid #3c3c3c;
+}
+.border-block__field_light {
+  border: 2px solid #fff;
+}
+.border-block__field_size {
+  max-width: 100%;
+}
+.border-block__title_position {
+  width: auto;
+  margin: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.border-block__text_position {
+  padding: 10% 10% 10% 10%;
+}
+/* Border-block ending*/
+
+
+/* Services-block start */
+.services-block {
+  background: #fff;
+}
+.services-block_position {
+  margin: 0 auto;
+  padding: 0;
+}
+/* Services-block ending*/
+
+
+/* What-block start */
+.what-block_position {
+  margin: 0 auto;
+  padding: 15% 0 15% 0;
+}
+.what-block_theme{
+  color: #000;
+  background: #fff;
+}
+.what-block h2 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Lato;
+}
+.what-block__wrapper_position {
+ margin: 0 auto;
+ padding: 0; 
+}
+.what-block__border_theme {
+  border: 2px solid #000;
+  max-width: 100%;
+}
+.what-block__about-design_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-development_position {
+  margin: 0 auto;
+  padding: 10% 0;
+}
+.what-block__about-management_position {
+  margin: 0 auto;
+  padding: 10% 0 15% 0;
+}
+.what-block__design-icon_position {
+
+}
+.what-block__design-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__development-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+.what-block__management-title_position {
+  margin: 0 auto;
+  padding: 2% 0 2% 0;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery {
+  display: none;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 10% 0%;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 15px;
+}
+.footer-block_position {
+  margin: 0 0 2% 0;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 30px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 20px;
+  font-family: Lato;
+  font-weight: 400;
+}
+
+/* What-block start */
+.what-block h2 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Lato;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery h3 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Candara;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 15px;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 5% 0%;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 1024px) and (max-width: 1438px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 50px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 30px;
+  font-family: Lato;
+  font-weight: 400;
+}
+
+/* What-block start */
+.what-block h2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Lato;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 25px;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 5% 0%;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 1439px) and (max-width: 1800px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 54px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 400;
+}
+/* Border-block start */
+.border-block h2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 30px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.border-block__field_dark {
+  border: 4px solid #3c3c3c;
+}
+.border-block__field_light {
+  border: 4px solid #fff;
+}
+/* What-block start */
+.what-block h2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Lato;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Candara;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 5% 0%;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 20px;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 1439px) and (max-width: 1800px) {
+.header h1 {
+  font-family: Candara;
+  font-size: 65px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 400;
+}
+/* Border-block start */
+.border-block h2 {
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 40px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.border-block__field_dark {
+  border: 4px solid #3c3c3c;
+}
+.border-block__field_light {
+  border: 4px solid #fff;
+}
+/* What-block start */
+.what-block h2 {
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 40px;
+  font-weight: 400;
+  font-family: Lato;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery h3 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Candara;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 50px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 5% 0%;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 30px;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
+
+
+
+
+/*     MEDIA START     */
+@media screen and (min-width: 1801px) and (max-width: 2560px){
+.header h1 {
+  font-family: Candara;
+  font-size: 100px;
+  font-weight: bold;
+}
+.header p {
+  font-family: Lato;
+  font-size: 55px;
+  font-weight: 400;
+}
+.header__logo-top_size {
+  width: 7%;
+  height: 100%;
+}
+.header__logo-bottom_size {
+  width: 2%;
+  height: 70%;
+}
+
+/* Border-block start */
+.border-block h2 {
+  font-size: 80px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.border-block p {
+  font-size: 55px;
+  font-family: Lato;
+  font-weight: 400;
+}
+
+/* What-block start */
+.what-block h2 {
+  font-size: 80px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block h3 {
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.what-block p {
+  font-size: 55px;
+  font-weight: 400;
+  font-family: Lato;
+}
+.what-block__icon_size {
+  height: 80%;
+  width: 10%;
+}
+/* What-block ending */
+
+
+/* Gallery block start*/
+.gallery h3 {
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Candara;
+}
+.gallery__left-pic_size {
+  height: 356px;
+  width: 822px;
+}
+.gallery__middle-pic_size {
+  height: 356px;
+  width: 1203px;
+}
+.gallery__right-pic_size {
+  height: 356px;
+  width: 822px;
+}
+/*Gallery block ending*/
+
+
+/*Button block start*/
+.button {
+  font-family: Candara;
+  font-size: 60px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/*Button block ending*/
+
+
+/*Footer-block start*/
+.footer-block p {
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 40px;
+}
+.button_theme {
+  background: #3c3c3c;
+  color: #fff;
+  width: 100%;
+  border: 0;
+  padding: 1% 2% 1% 2%;
+  margin: 20% 0% 5% 0%;
+}
+/*Footer-block ending*/
+}
+/*     MEDIA ENDING    */
